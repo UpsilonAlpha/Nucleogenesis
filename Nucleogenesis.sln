@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{37c01ca6-af02-8809-d7e9-6f5f3f4e3b90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Postprocessing.Runtime", "Unity.Postprocessing.Runtime.csproj", "{e84671aa-36cd-7f32-73d4-924e58664cda}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Postprocessing.Runtime.Tests", "Unity.Postprocessing.Runtime.Tests.csproj", "{11bb240b-ad9f-ff80-5397-340b842fbc02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Postprocessing.Editor", "Unity.Postprocessing.Editor.csproj", "{bf78c001-d109-6acd-db5b-a6494cc706ee}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Postprocessing.Editor.Tests", "Unity.Postprocessing.Editor.Tests.csproj", "{ff508c83-29de-f8ea-f9d8-80ae07d96263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{e2374123-c019-68c2-1b07-b338392e3ff5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37c01ca6-af02-8809-d7e9-6f5f3f4e3b90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37c01ca6-af02-8809-d7e9-6f5f3f4e3b90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e84671aa-36cd-7f32-73d4-924e58664cda}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e84671aa-36cd-7f32-73d4-924e58664cda}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11bb240b-ad9f-ff80-5397-340b842fbc02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11bb240b-ad9f-ff80-5397-340b842fbc02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{bf78c001-d109-6acd-db5b-a6494cc706ee}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{bf78c001-d109-6acd-db5b-a6494cc706ee}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ff508c83-29de-f8ea-f9d8-80ae07d96263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ff508c83-29de-f8ea-f9d8-80ae07d96263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e2374123-c019-68c2-1b07-b338392e3ff5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e2374123-c019-68c2-1b07-b338392e3ff5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
